@@ -8,7 +8,7 @@ import time
 from concurrent.futures import ThreadPoolExecutor
 
 # Configuration
-M3U_URL = "https://raw.githubusercontent.com/sixpg/zeyo-test/refs/heads/main/jtv.m3u"
+M3U_URL = "https://raw.githubusercontent.com/sportlive18/Jio-Auto-Update-m3u-playlist/refs/heads/main/jiotv.m3u"
 OUTPUT_DIR = "Channel"
 
 # Ensure output directory exists and is clean
